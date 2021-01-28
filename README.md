@@ -5,7 +5,7 @@ This project aims to understand the idea of the paper ,"Neighbor2Neighbor:Self-S
 All the results are tested on SIDD Validation Dataset.
 
 Noisy Image|denoised Result
-****|*****
+----|-----
 
 
 
