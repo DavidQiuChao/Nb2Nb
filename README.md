@@ -11,9 +11,7 @@ Noisy Image|denoised Result
 ![56](https://github.com/DavidQiuChao/Nb2Nb/blob/main/figs/0056_noisy.png)|![56c](https://github.com/DavidQiuChao/Nb2Nb/blob/main/figs/0056_clean.png)
 
 ## Update
-Testing files,including trained model, are uploaded. The main testing file is "test.py", which can easily run by input the command 'python test.py -s saves -n nets.Unet -d "dataDir" -s "resultDir"'. The "dataDir" specifies the testing data directory, and the "resultDir" is the path for saving result. 
-
+Testing files, including trained model, are uploaded. The main testing file is "test.py", which can easily run by input the command 'python test.py -s saves -n nets.Unet -d "dataDir" -r "resultDir"'. The "dataDir" specifies the testing data directory, and the "resultDir" is the path for saving result. 
 For rendering the '.mat' data, using the [Simple Camera Pipline](https://github.com/AbdoKamel/simple-camera-pipeline).
-
 More training files will be uploaded as soon as possible. To be continue ...
 
